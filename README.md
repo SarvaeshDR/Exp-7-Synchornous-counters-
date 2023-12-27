@@ -86,31 +86,31 @@ endmodule
 
 ## Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103521.png)
 
 ## Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103534.png)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ## Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103554.png)
 
 ## Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103609.png)
 
 ### TRUTH TABLE 
 
 ## Upcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103625.png)
 
 ## Downcounter:
 
-![image](
+![image](https://raw.githubusercontent.com/SarvaeshDR/Exp-7-Synchornous-counters-/main/Screenshot%202023-12-27%20103644.png)
 
 ### RESULTS 
 Thus, The 4 - bit Up and Down Counters is implement successfully
